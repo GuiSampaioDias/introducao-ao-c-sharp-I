@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\TiposEVariaveis\bin\Debug\TiposEVariaveis.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\TiposEVariaveis\obj\Debug\TiposEVariaveis.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\TiposEVariaveis\obj\Debug\TiposEVariaveis.pdb

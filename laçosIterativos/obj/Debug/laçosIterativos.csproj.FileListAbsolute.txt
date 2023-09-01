@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\laçosIterativos\bin\Debug\laçosIterativos.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\laçosIterativos\bin\Debug\laçosIterativos.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\laçosIterativos\bin\Debug\laçosIterativos.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\laçosIterativos\obj\Debug\laçosIterativos.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\laçosIterativos\obj\Debug\laçosIterativos.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\laçosIterativos\obj\Debug\laçosIterativos.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\laçosIterativos\obj\Debug\laçosIterativos.pdb

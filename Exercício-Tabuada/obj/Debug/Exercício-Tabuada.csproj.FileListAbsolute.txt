@@ -1,0 +1,7 @@
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\Exercício-Tabuada\obj\Debug\Exercício-Tabuada.csproj.AssemblyReference.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\Exercício-Tabuada\obj\Debug\Exercício-Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\Exercício-Tabuada\bin\Debug\Exercício-Tabuada.exe.config
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\Exercício-Tabuada\bin\Debug\Exercício-Tabuada.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\Exercício-Tabuada\bin\Debug\Exercício-Tabuada.pdb
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\Exercício-Tabuada\obj\Debug\Exercício-Tabuada.exe
+C:\Users\gui_s\OneDrive\Área de Trabalho\codigos\C#\introducao-ao-c-sharp-I\.git\Exercício-Tabuada\obj\Debug\Exercício-Tabuada.pdb
